@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Countingsort {
+public class Inbuiltsort {
     public static void printarr(Integer arr[]){
         for(Integer i = 0; i<arr.length; i++){
             System.out.println(arr[i] + " ");
